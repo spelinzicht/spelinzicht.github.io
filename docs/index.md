@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welkom bij Spelinzicht
 
-You can use the [editor on GitHub](https://github.com/spelinzicht/spelinzicht.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Welkom op de site van de bordspellenclub SpelInZicht!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bij bordspellen krijg je misschien spontaan frustraties 
+als je denkt aan Monopoly of Risk waar je,
+oftewel direct uitgeschakeld bent, 
+oftewel urenlang uitzichtloos zit te spelen zonder echt spelplezier.  
 
-### Markdown
+Echter, de bordspellen die wij spelen zijn anders:
+- Geen eliminatie van een speler.
+- Relatief eenvoudige spelregels.
+- Een speelduur van zo'n 30 tot 150 minuten.
+- Interacties met de andere spelers tussen elke beurt.
+- Een balans tussen strategie en geluk.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Interesse? Kom zeker eens langs op onze volgende spelletjesavond.  
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spelinzicht/spelinzicht.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Oh ja, onze naam Spel'InZicht, vrees echter niets, of je nu nog nooit een bordspel gespeeld hebt of een veteraan bent, iedereen is welkom.  
+Denk meer aan Spel'In'Zicht, we leggen het spel rustig uit enwe spelen in een aangename en vriendschappelijke sfeer.  
