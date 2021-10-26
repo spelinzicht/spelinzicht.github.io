@@ -1,1 +1,16 @@
+title: Spelinzicht
+email: info@spelinzicht.be
+
+description: >- # this means to ignore newlines until "baseurl:"
+  Een club van vrienden die maandelijks samenkomen
+  voor het spelen van het betere gezelschapspel.
+  Bordspellen, wargames, social deduction games, ...
+  Open voor het grote publiek, elke 2de vrijdag van de maand,
+  in het poortgebouw van de pastorie van Dworp.
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://spelinzicht.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: spelinzicht
+github_username:  spelinzicht
+
+
 theme: jekyll-theme-minimal
